@@ -1,0 +1,12 @@
+.formContainer {
+	border: 1px solid gray;
+	border-radius: 10px;
+	padding: 30px;
+	margin: 15px 0;
+}
+
+@media screen and (max-width: 768px) {
+	.formContainer {
+		padding: 15px;
+	}
+}

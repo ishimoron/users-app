@@ -1,0 +1,18 @@
+.userContainer {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}
+
+.userWrapper {
+	width: 50%;
+}
+
+@media screen and (max-width: 768px) {
+	.userWrapper {
+		width: 90%;
+	}
+}
