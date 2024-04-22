@@ -2,6 +2,6 @@
 ## Test assignment by Web Expert
 `git clone https://github.com/ishimoron/users-app.git`=>
 `npm install` =>
-`npm run start`
+`npm run dev`
 
 Have fun 😊
